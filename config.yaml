@@ -9,7 +9,7 @@ jobname: NYFh1em6
 #collate_walltime: 10:00:00
 #collate_mem: 16GB
 collate_walltime: 06:00:00
-collate_mem: 12GB
+collate_mem: 16GB
 collate_ncpus: 2
 collate_queue: express
 collate_flags: -n4 -z -m -r
